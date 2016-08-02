@@ -1,0 +1,35 @@
+/****************TitilliumWeb-Bold****************************/
+@font-face {
+	font-family: 'TitilliumWeb-Bold';
+	src: url('../fonts/Titillium/TitilliumWeb-Bold.ttf');
+}
+/****************TitilliumWeb-Italic****************************/
+@font-face {
+	font-family: 'TitilliumWeb-Italic';
+	src: url('../fonts/Titillium/TitilliumWeb-Italic.ttf');
+}
+/****************TitilliumWeb-Light****************************/
+@font-face {
+	font-family: 'TitilliumWeb-Light';
+	src: url('../fonts/Titillium/TitilliumWeb-Light.ttf');
+}
+/****************TitilliumWeb-Regular****************************/
+@font-face {
+	font-family: 'TitilliumWeb-Regular';
+	src: url('../fonts/Titillium/TitilliumWeb-Regular.ttf');
+}
+/****************TitilliumWeb-SemiBold****************************/
+@font-face {
+	font-family: 'TitilliumWeb-SemiBold';
+	src: url('../fonts/Titillium/TitilliumWeb-SemiBold.ttf');
+}
+/***********************END*******************************/
+@font-face {
+    font-family: "MyriadProRegular";
+    src: url("../fonts/MyriadProRegular/MyriadProRegular.eot");
+    src: url("../fonts/MyriadProRegular/MyriadProRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/MyriadProRegular/MyriadProRegular.woff") format("woff"),
+    url("../fonts/MyriadProRegular/MyriadProRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
